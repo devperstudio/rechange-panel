@@ -1,0 +1,9 @@
+.dashboard-wrapper {
+  margin-left: 260px; /* sidebar width */
+  min-height: 100vh;
+}
+
+.dashboard-content {
+  margin-top: 70px; /* navbar height */
+  padding: 20px;
+}
